@@ -1,3 +1,5 @@
+//Voici une aide du projet suiveur de ligne
+
 #define mon_nom 5 //ça sert a définir la chose qui s'pallera "mon_nom" sur la broche 5
 
 digitalWrite( , ); //Faire l'information avec une information 0 ou  1
